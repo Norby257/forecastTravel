@@ -19,6 +19,7 @@
     "gulp-plumber": "^1.2.0",
     "gulp-sass": "^2.3.2",
     "gulp-uglify": "^2.1.2",
+    "jasmine": "^3.1.0",
     "path": "*",
     "path-exists": "*"
   },
@@ -27,5 +28,13 @@
   },
   "main": "app.js",
   "devDependencies": {},
-  "keywords": []
+  "keywords": [],
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Norby257/forecastTravel.git"
+  },
+  "bugs": {
+    "url": "https://github.com/Norby257/forecastTravel/issues"
+  },
+  "homepage": "https://github.com/Norby257/forecastTravel#readme"
 }
